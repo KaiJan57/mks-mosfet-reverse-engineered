@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 4N35
+D DC Optocoupler Base Connected, Vce 70V, CTR 50%, Viso 5000V, DIP6
+K NPN DC Optocoupler Base Connected
+F https://www.vishay.com/docs/81181/4n35.pdf
+$ENDCMP
+#
+$CMP HY5608
+D HY5608 80V Vds, 360A Id, N-Channel Power MOSFET, TO-247-3L
+K HY5608 N-Channel Power MOSFET
+F boorzia.com/download/hy5608w_.pdf
+$ENDCMP
+#
+#End Doc Library
